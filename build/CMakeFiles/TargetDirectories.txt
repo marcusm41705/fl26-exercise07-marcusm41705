@@ -1,0 +1,4 @@
+C:/Users/marcu/ECE_Software_Des/applied_software_coursework/fl26-exercise07-marcusm41705/build/CMakeFiles/clientcode.dir
+C:/Users/marcu/ECE_Software_Des/applied_software_coursework/fl26-exercise07-marcusm41705/build/CMakeFiles/unit_test.dir
+C:/Users/marcu/ECE_Software_Des/applied_software_coursework/fl26-exercise07-marcusm41705/build/CMakeFiles/edit_cache.dir
+C:/Users/marcu/ECE_Software_Des/applied_software_coursework/fl26-exercise07-marcusm41705/build/CMakeFiles/rebuild_cache.dir

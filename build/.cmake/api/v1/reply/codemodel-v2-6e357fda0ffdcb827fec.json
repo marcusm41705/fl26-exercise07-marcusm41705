@@ -1,0 +1,69 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "treap_exercise",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "clientcode::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-clientcode-Debug-f64593a1aa3b8164d8bb.json",
+					"name" : "clientcode",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "unit_test::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-unit_test-Debug-b98bc7e28f59047b8fe4.json",
+					"name" : "unit_test",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/marcu/ECE_Software_Des/applied_software_coursework/fl26-exercise07-marcusm41705/build",
+		"source" : "C:/Users/marcu/ECE_Software_Des/applied_software_coursework/fl26-exercise07-marcusm41705"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

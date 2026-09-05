@@ -1,0 +1,26 @@
+[
+{
+  "directory": "C:/Users/marcu/ECE_Software_Des/applied_software_coursework/fl26-exercise07-marcusm41705/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe   -g -std=gnu++11 -o CMakeFiles\\clientcode.dir\\clientcode.cpp.obj -c C:\\Users\\marcu\\ECE_Software_Des\\applied_software_coursework\\fl26-exercise07-marcusm41705\\clientcode.cpp",
+  "file": "C:/Users/marcu/ECE_Software_Des/applied_software_coursework/fl26-exercise07-marcusm41705/clientcode.cpp",
+  "output": "CMakeFiles/clientcode.dir/clientcode.cpp.obj"
+},
+{
+  "directory": "C:/Users/marcu/ECE_Software_Des/applied_software_coursework/fl26-exercise07-marcusm41705/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe   -g -std=gnu++11 -o CMakeFiles\\clientcode.dir\\treap.cpp.obj -c C:\\Users\\marcu\\ECE_Software_Des\\applied_software_coursework\\fl26-exercise07-marcusm41705\\treap.cpp",
+  "file": "C:/Users/marcu/ECE_Software_Des/applied_software_coursework/fl26-exercise07-marcusm41705/treap.cpp",
+  "output": "CMakeFiles/clientcode.dir/treap.cpp.obj"
+},
+{
+  "directory": "C:/Users/marcu/ECE_Software_Des/applied_software_coursework/fl26-exercise07-marcusm41705/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe   -g -std=gnu++11 -o CMakeFiles\\unit_test.dir\\unit_test.cpp.obj -c C:\\Users\\marcu\\ECE_Software_Des\\applied_software_coursework\\fl26-exercise07-marcusm41705\\unit_test.cpp",
+  "file": "C:/Users/marcu/ECE_Software_Des/applied_software_coursework/fl26-exercise07-marcusm41705/unit_test.cpp",
+  "output": "CMakeFiles/unit_test.dir/unit_test.cpp.obj"
+},
+{
+  "directory": "C:/Users/marcu/ECE_Software_Des/applied_software_coursework/fl26-exercise07-marcusm41705/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe   -g -std=gnu++11 -o CMakeFiles\\unit_test.dir\\treap.cpp.obj -c C:\\Users\\marcu\\ECE_Software_Des\\applied_software_coursework\\fl26-exercise07-marcusm41705\\treap.cpp",
+  "file": "C:/Users/marcu/ECE_Software_Des/applied_software_coursework/fl26-exercise07-marcusm41705/treap.cpp",
+  "output": "CMakeFiles/unit_test.dir/treap.cpp.obj"
+}
+]
